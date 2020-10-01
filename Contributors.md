@@ -1,5 +1,6 @@
 # Contributors
-- [Gilang A] (https://github.com/pakualam)
+-[Violete] (https://github.com/xviolete)
+-[Gilang A] (https://github.com/pakualam)
 -[Al Fikri] (https://github.com/Al-User12)
 -[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
